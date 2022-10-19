@@ -1,5 +1,9 @@
 # Kodluyoruz İlk Repo
+
+Abdullah Demirkol'a patika.dev sitesinde [ademirkol](https://app.patika.dev/ademirkol) kullanıcı adı ile ulaşabilirsiniz.
+
 Bu repo  [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde 1 adert README ve 1 adet index.html dosyası barındırıyor.
+
 
 ![github](figures/github.png)
 ## Installation
